@@ -1,0 +1,8 @@
+Time = 0 iterations. Total energy = -1.254e+03
+Time = 50 iterations. Total energy = -1.254e+03
+Time = 100 iterations. Total energy = -1.254e+03
+Time = 150 iterations. Total energy = -1.254e+03
+Time = 200 iterations. Total energy = -1.254e+03
+Time = 250 iterations. Total energy = -1.254e+03
+Time = 300 iterations. Total energy = -1.254e+03
+Time = 350 iterations. Total energy = -1.254e+03
